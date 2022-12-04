@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  weathers: [
+  "weathers": [
     {
       "id": 1,
       "city": "Singapore",
