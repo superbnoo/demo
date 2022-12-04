@@ -13,43 +13,43 @@
   },
   "weathers": [
     {
-      "id": 1,
+      "id": "1",
       "city": "Singapore",
       "temperature": "30°C",
       "weather": "sunny"
     },
     {
-      "id": 2,
+      "id": "2",
       "city": "New York",
       "temperature": "5°C",
       "weather": "overcast"
     },
     {
-      "id": 3,
+      "id": "3",
       "city": "Ho Chi Minh city",
       "temperature": "32°C",
       "weather": "sunny"
     },
     {
-      "id": 4,
+      "id": "4",
       "city": "Melbourne",
       "temperature": "25°C",
       "weather": "cloudy"
     },
     {
-      "id": 5,
+      "id": "5",
       "city": "Sydney",
       "temperature": "28°C",
       "weather": "sunny"
     },
     {
-      "id": 6,
+      "id": "6",
       "city": "Toronto",
       "temperature": "0°C",
       "weather": "snowy"
     },
     {
-      "id": 7,
+      "id": "7",
       "city": "Texas",
       "temperature": "15°C",
       "weather": "windy"
